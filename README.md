@@ -8,6 +8,7 @@ Get more information at https://inscode-ide.inscode.cc/download
 
 ## Demo
 
-<video width="100%" controls>
-  <source src="demo.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/user-attachments/assets/98c8f795-c90b-4a4c-8772-bb1a3c756ee6
+
